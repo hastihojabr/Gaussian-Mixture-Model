@@ -37,9 +37,20 @@ In a clustering problem we have to understand how well the data is grouped into 
 ![download (21)](https://user-images.githubusercontent.com/89476798/176494999-01d8df1f-d459-4fc8-bf24-965abe970f07.png)
 
 ## The Iris Data set
+
+The Iris Data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher.
+We ignore the target col- umn and cluster data features using GMM. Then we can compare GMM’s prediction and the actual target and do an external evaluation of our model.
+
 ![download (13)](https://user-images.githubusercontent.com/89476798/176498332-93518086-89ca-4d9f-9f7c-2db90a53067a.png)
 
 ## The Online Retail Data set
+
+Using RFM segmentation technique. where
+
+Recency (R) value is the number of days a customer takes between two purchases. 
+Frequency (F) is defined as the number of purchases a customer makes in a specific period. 
+Monetary (M) is defined as the amount of money spent by the customer during a certain period.
+
 ![em1](https://user-images.githubusercontent.com/89476798/176498354-e3ff4488-c442-4014-8928-7d2d0bdec5b0.png)
 ![em3](https://user-images.githubusercontent.com/89476798/176498377-a89b2a11-3e2c-4029-93d2-36a9480c0ac1.png)
 ![em2](https://user-images.githubusercontent.com/89476798/176498389-9d1c224c-ae12-4802-865b-74414736f4e2.png)
